@@ -1,0 +1,42 @@
+   0 ls
+   1 whoami
+   2 cd
+   3 cd /
+   4 ls --help
+   5 cd
+   6 ls -l
+   7 echo 'hello'
+   8 cd /opt
+   9 pwd
+  10 mkdir test
+  11 cd ..
+  12 cd te
+  13 cd test
+  14 cd opt
+  15 mkdir test
+  16 cd test
+  17 touch file.txt
+  18 ls
+  19 mkdir /opt/test2 touch /opt/test2/file2.txtt
+  20 tree
+  21 opt/test
+  22 mkdir /tmp/task
+  23 cd
+  24 tree /opt
+  25 cp /tmp/task/file.txt /opt
+  26 cp /tmp/task/file.txt /optls
+  27 ls
+  28 tree
+  29 clear
+  30 history
+  31 tree
+  32 tree /opt
+  33 clear
+  34 cp /opt/test/file.txt /root/file1.1.txt
+  35 mw /root/newfile1.1.txt
+  36 rmdir --help
+  37 rm -rf /opt/test
+  38 histoty > history.txt
+  39 cxport_file history.txt
+  40 history
+  41 history > history.txt
