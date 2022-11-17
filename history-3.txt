@@ -1,0 +1,6 @@
+   0 date > /home/date.txt
+   1 df -h | head -2 >> /home/date.txt
+   2 history | tail -5 >> /home/date.txt
+   3 cat /proc/cpuinfo | grep vendor >> /home/date.txt
+   4 vi /home/date.txt
+   5 history > history.txt
